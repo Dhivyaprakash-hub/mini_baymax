@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+mood_log.json
+openai_setup.py
+test_openai.py

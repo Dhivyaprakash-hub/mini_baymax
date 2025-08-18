@@ -1,0 +1,4 @@
+# Add packages here as you install them later, e.g.:
+# deepface
+# SpeechRecognition
+# transformers
