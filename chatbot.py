@@ -1,4 +1,6 @@
 def respond_to_emotion(emotion):
+    if emotion is None:
+        return "I can't infer emotion yet, but I'm here if you'd like to talk."
     responses = {
         "happy": "I'm glad you're feeling happy! 😊",
         "sad": "I'm here for you. Want to talk about it?",

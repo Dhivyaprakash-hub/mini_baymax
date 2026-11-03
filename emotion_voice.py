@@ -1,3 +1,3 @@
 def detect_voice_emotion():
-    # Placeholder: Always returns neutral
-    return "neutral", 1.0
+    """Emotion recognition is not implemented; do not imply a prediction."""
+    return None, None
